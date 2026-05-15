@@ -73,11 +73,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shambhujadhav4&theme=tokyonight" height="160em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shambhujadhav4&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shambhujadhav4&theme=tokyonight&v=1" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shambhujadhav4&theme=tokyonight&v=1" height="160em"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shambhujadhav4&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shambhujadhav4&theme=tokyonight&hide_border=true&v=1)
 
 </div>
